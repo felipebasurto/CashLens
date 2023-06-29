@@ -1,6 +1,7 @@
 # CashLens
 
-**Project on Ultralytics Hub: https://hub.ultralytics.com/projects/TReoJx1IozQRQS2Vjy2J**
+**Project on Ultralytics Hub: https://hub.ultralytics.com/projects/TReoJx1IozQRQS2Vjy2J** 
+
 <a href="https://universe.roboflow.com/felipe-cam6q/cashlens-18xas">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
