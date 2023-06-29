@@ -12,7 +12,7 @@ Despite having certain limitations, it's a useful tool for those looking to expe
 
 2. **Integration with YOLOv8**: Leveraging the capabilities of YOLOv8, CashLens aims at coin detection.
 
-3. **Built on Ultralytics Hub**: CashLens is built on the Ultralytics hub, providing a good starting point for those exploring computer vision.
+3. **Built on Ultralytics Hub**: CashLens is built on the Ultralytics hub, providing a magnificient starting point for those exploring computer vision. It makes everything so easy.
 
 ## System Requirements
 
@@ -41,11 +41,7 @@ To use CashLens, open the `cashlens.ipynb` notebook and execute the cells.
 
 ## Contribution
 
-Contributions to CashLens are very welcome! Whether it's bug reports, code improvements, new features, or expanding the dataset, your input is highly valuable to us. Please feel free to open an issue or a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Contributions to CashLens are very welcome! Whether it's bug reports, code improvements, new features, or expanding the dataset, your input is highly valuable to me. Please feel free to open an issue or a pull request.
 
 ## Support 
 
@@ -53,4 +49,4 @@ If you have any questions or run into any trouble, please reach out through GitH
 
 ## Acknowledgements
 
-Big thanks to the Ultralytics team and the creators of YOLOv8 for their work which has made the development of CashLens possible.
+Big thanks to the @ultralytics team and the creators of YOLOv8 for their work which has made the development of CashLens possible. I missed the chance to chat with them in South Summit in Madrid, and i really think they are an amazing company (With offices in Madrid!)
