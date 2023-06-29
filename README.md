@@ -1,5 +1,7 @@
 # CashLens
 
+**Project on Ultralytics Hub: https://hub.ultralytics.com/projects/TReoJx1IozQRQS2Vjy2J**
+
 ## Description
 
 CashLens is a computer vision application developed as a student project, powered by YOLOv8 and the Ultralytics hub. The primary function of CashLens is to detect and identify coins on a counter, then aggregate their total value in real-time. 
