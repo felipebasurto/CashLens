@@ -59,3 +59,10 @@ If you have any questions or run into any trouble, please reach out through GitH
 ## Acknowledgements
 
 Big thanks to the @ultralytics team and the creators of YOLOv8 for their work which has made the development of CashLens possible. I missed the chance to chat with them in South Summit in Madrid, and i really think they are an amazing company (With offices in Madrid!)
+
+## Demo
+
+Just some pictures of tests we have ran, in our case, we used EpocCam to use a mobile phone as a camera.
+
+![WhatsApp Image 2023-06-30 at 09 35 11](https://github.com/felipebasurto/CashLens/assets/62935664/cf89148c-47b8-46fb-b803-3152fe641087)
+![WhatsApp Image 2023-06-29 at 19 17 59](https://github.com/felipebasurto/CashLens/assets/62935664/44a60b1a-effb-4b06-b252-110872239c07)
